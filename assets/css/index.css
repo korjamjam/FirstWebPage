@@ -29,3 +29,7 @@
      width : 100%;
      max-width : 500px;
 }
+
+.playerVideo h1{
+    text-align: center;
+}
