@@ -24,3 +24,8 @@
 .gallery p {
     color: #ffffff;
 }
+
+.special1 img{
+     width : 100%;
+     max-width : 500px;
+}
